@@ -4,12 +4,24 @@ This app is designed to offer a seamless experience for passengers to book seats
 ## 🌟 Features
 
 ### 👤 User Side
+
+![Screenshot 2025-06-29 233606](https://github.com/user-attachments/assets/37eb99ec-9f79-47d4-b6c0-15022deb80e9)
+![Screenshot 2025-06-29 233637](https://github.com/user-attachments/assets/eb29eb2c-44b3-445d-bf08-35bd32f10bd3)
+![Screenshot 2025-06-29 233913](https://github.com/user-attachments/assets/ece3af88-1289-43cc-88ba-48dfdf24b9de)
+![Screenshot 2025-06-29 233959](https://github.com/user-attachments/assets/08012f53-6564-40ec-b4c8-03d659f8a022)
+![Screenshot 2025-06-29 234014](https://github.com/user-attachments/assets/0bdc9f23-6ef5-4976-9237-a77906bbde60)
+![Screenshot 2025-06-29 234113](https://github.com/user-attachments/assets/d5cd94f2-0ab6-499b-801c-879f7d1b9241)
+
 - Browse available buses and schedules
 - Select your seat with an interactive **Seat Plan UI**
 - Book using your phone number — **no login required**
 - See instant booking confirmation
 
 ### 🛠️ Admin Panel
+
+![Screenshot 2025-06-29 233712](https://github.com/user-attachments/assets/31e32703-2023-44c1-ac62-df26c59ec1c1)
+![Screenshot 2025-06-29 234147](https://github.com/user-attachments/assets/5966dd92-dbd3-4b7d-8782-fe28fc19a2e1)
+
 - Secure **Json web token (JWT) -based login**
 - Add buses and define schedules
 - View all reservations
@@ -42,9 +54,12 @@ This app is designed to offer a seamless experience for passengers to book seats
 > 🛡️ Admin routes require a valid JWT token in the `Authorization` header.
 
 ---
+![Screenshot 2025-06-29 234233](https://github.com/user-attachments/assets/a2f6cb64-a677-4696-b56e-0a502c0ca0e3)
+---
+
 
 ## Flutter Structure :
-
+```
 lib/
 ├── core/
 │ ├── buttons.dart
@@ -65,9 +80,9 @@ lib/
 │ ├── widgets/ # SeatPlanView and UI components
 │ └── providers/ # Provider state management
 └── main.dart # App entry point
-
+```
 ## Springboot Stucture :
-
+```
 src/
 └── main/
 ├── java/com/example/booking/
@@ -78,7 +93,7 @@ src/
 │ └── BookingApplication.java
 └── resources/
 └── application.properties # Supabase DB config
-
+```
 ## 🚀 Getting Started !!
 
 1. Clone the repo:
