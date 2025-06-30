@@ -14,7 +14,7 @@ This app is designed to offer a seamless experience for passengers to book seats
 - Book using your phone number — **no login required**
 - See instant booking confirmation
 
-### 🛠️ Admin Panel
+### 🛠️ Admin Side
 
 ![Screenshot 2025-06-29 233712](https://github.com/user-attachments/assets/31e32703-2023-44c1-ac62-df26c59ec1c1)
 
