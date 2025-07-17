@@ -10,9 +10,12 @@ This app is designed to offer a seamless experience for passengers to book seats
 - Book using your phone number — **no login required**
 - See instant booking confirmation
 
-![Screenshot 2025-06-29 233606](https://github.com/user-attachments/assets/37eb99ec-9f79-47d4-b6c0-15022deb80e9)     ![Screenshot 2025-06-29 233637](https://github.com/user-attachments/assets/eb29eb2c-44b3-445d-bf08-35bd32f10bd3)
-![Screenshot 2025-06-29 233913](https://github.com/user-attachments/assets/ece3af88-1289-43cc-88ba-48dfdf24b9de)     ![Screenshot 2025-06-29 233959](https://github.com/user-attachments/assets/08012f53-6564-40ec-b4c8-03d659f8a022)
-![Screenshot 2025-06-29 234014](https://github.com/user-attachments/assets/0bdc9f23-6ef5-4976-9237-a77906bbde60)     ![Screenshot 2025-06-29 234113](https://github.com/user-attachments/assets/d5cd94f2-0ab6-499b-801c-879f7d1b9241)
+< img src = "https://github.com/user-attachments/assets/37eb99ec-9f79-47d4-b6c0-15022deb80e9" height ="600" width ="300">
+< img src = "https://github.com/user-attachments/assets/eb29eb2c-44b3-445d-bf08-35bd32f10bd3" height ="600" width ="300">
+< img src = "https://github.com/user-attachments/assets/ece3af88-1289-43cc-88ba-48dfdf24b9de" height ="600" width ="300">
+< img src = "https://github.com/user-attachments/assets/08012f53-6564-40ec-b4c8-03d659f8a022" height ="600" width ="300">
+< img src = "https://github.com/user-attachments/assets/0bdc9f23-6ef5-4976-9237-a77906bbde60" height ="600" width ="300">
+< img src = "https://github.com/user-attachments/assets/d5cd94f2-0ab6-499b-801c-879f7d1b9241" height ="600" width ="300">
 
 
 ### 🛠️ Admin Side
@@ -21,9 +24,8 @@ This app is designed to offer a seamless experience for passengers to book seats
 - Add buses and define schedules
 - View all reservations
 
-![Screenshot 2025-06-29 233712](https://github.com/user-attachments/assets/31e32703-2023-44c1-ac62-df26c59ec1c1)
-
-![Screenshot 2025-06-29 234147](https://github.com/user-attachments/assets/5966dd92-dbd3-4b7d-8782-fe28fc19a2e1)
+< img src = "https://github.com/user-attachments/assets/31e32703-2023-44c1-ac62-df26c59ec1c1" height = "600" width = "300">
+< img src = "https://github.com/user-attachments/assets/5966dd92-dbd3-4b7d-8782-fe28fc19a2e1" height = "600" width = "300">
 
 
 ---
@@ -53,8 +55,8 @@ This app is designed to offer a seamless experience for passengers to book seats
 
 > 🛡️ Admin routes require a valid JWT token in the `Authorization` header.
 
----
-![Screenshot 2025-06-29 234233](https://github.com/user-attachments/assets/a2f6cb64-a677-4696-b56e-0a502c0ca0e3)
+--
+< img src= "https://github.com/user-attachments/assets/a2f6cb64-a677-4696-b56e-0a502c0ca0e3" height = "600" width = "300">
 ---
 
 
