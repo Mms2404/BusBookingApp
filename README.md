@@ -56,7 +56,7 @@ This app is designed to offer a seamless experience for passengers to book seats
 > 🛡️ Admin routes require a valid JWT token in the `Authorization` header.
 
 --
-<img src= "https://github.com/user-attachments/assets/a2f6cb64-a677-4696-b56e-0a502c0ca0e3" height = "1000" width = "600"/>
+<img src= "https://github.com/user-attachments/assets/a2f6cb64-a677-4696-b56e-0a502c0ca0e3" height = "1500" width = "600"/>
 ---
 
 
